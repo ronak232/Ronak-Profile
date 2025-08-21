@@ -1,6 +1,6 @@
 # Hi, I'm Ronak 👋
 
-Frontend developer • JavaScript, React.js, TypeScript • Node.js • Tailwind CSS • MongoDB • Gemini API
+Frontend developer • JavaScript • React.js • TypeScript • Node.js • Tailwind CSS • MongoDB • Gemini API
 
 I'm Ronak — I build polished, accessible, and performant user interfaces and web apps. I enjoy turning product ideas into delightful user experiences and shipping full-stack features using modern frontend tooling.
 

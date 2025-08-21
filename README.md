@@ -44,8 +44,8 @@ I'm Ronak — I build polished, accessible, and performant user interfaces and w
 
 ---
 
-## Want to collaborate?
-I'm open to freelance, contract, and full-time frontend roles. If you have an interesting frontend or LLM/AI project, let's chat:
+## Connect with me
+I'm open to full-time frontend roles. If you have an interesting frontend or LLM/AI project, let's chat:
 - LinkedIn: https://www.linkedin.com/in/ronak-mathur-232000/
 - Portfolio: https://ronak232.github.io/Portfolio-Website/
 - Email: (add your email here if you'd like it shown)

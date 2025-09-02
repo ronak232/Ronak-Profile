@@ -16,7 +16,7 @@ I'm Ronak — I build polished, accessible, and performant user interfaces and w
 - Frontend: React.js, Tailwind CSS
 - Backend: Node.js, Express
 - Databases: MongoDB
-- AI / LLM: Gemini API (LLM integrations)
+- AI / LLM: Gemini API, Groq, Langchain (LLM integrations)
 - Tools: Git, Vercel/Netlify, Chrome DevTools
 
 ---
